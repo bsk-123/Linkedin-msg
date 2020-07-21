@@ -69,6 +69,8 @@ hr{
     padding: 10px 0;
 }
 .ot div{
+    box-sizing: border-box
+    height: 15px;
     font-size: 14px;
     margin: 0 8px;
     padding: 5px 13px 8px 13px;
