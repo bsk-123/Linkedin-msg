@@ -63,6 +63,7 @@ hr{
     overflow-y: scroll;
 }
 .ot{
+    height: 30px;
     overflow: hidden;
     overflow-x: scroll;
     display: flex;
